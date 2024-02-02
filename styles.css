@@ -153,6 +153,21 @@ footer {
   color: #ff0000;
 }
 
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.image-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
 
 
 
